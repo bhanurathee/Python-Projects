@@ -1,4 +1,3 @@
-import getpass 
 Login_data = {}
 
 while True:
